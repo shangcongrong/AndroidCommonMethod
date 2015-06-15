@@ -1,0 +1,2 @@
+# AndroidCommonMethod
+此项目中包含一些能够提高android开发效率的方法
