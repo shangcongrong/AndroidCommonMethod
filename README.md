@@ -22,3 +22,12 @@
 实现如下图所示的增加和减少数量的效果
 
 ![](http://7xl9v5.com1.z0.glb.clouddn.com/blogimageimage_20151010200509.png)
+
+其中动画效果就是位移动画，如向上进入效果：
+
+	<translate xmlns:android="http://schemas.android.com/apk/res/android"
+           android:interpolator="@android:anim/accelerate_interpolator"
+           android:fromYDelta="100%p"
+           android:toYDelta="0%p"
+           android:duration="500">
+	</translate>
