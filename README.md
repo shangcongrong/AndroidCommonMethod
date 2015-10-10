@@ -15,3 +15,10 @@
 本方法可以给白色的图片着不同的颜色，比较适用于一个图标，但是需要多种颜色的情况 使用很简单：
 
 	tintedDrawable = new TintedBitmapDrawable(getResources(), R.drawable.bgsplash_baidu, Color.BLUE);
+
+
+#### 4.AutoTextView
+
+实现如下图所示的增加和减少数量的效果
+
+![](http://7xl9v5.com1.z0.glb.clouddn.com/blogimageimage_20151010200509.png)
